@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 
 import { AppComponent } from './app.component';
-import {HomeModule} from './modules/home/home.module';
+import { HomeModule } from './modules/home/home.module';
 
 
 @NgModule({
